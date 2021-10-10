@@ -30,10 +30,10 @@ pygame.display.set_caption('TIC-TAC-TOE')
 board = np.zeros((BOARD_ROWS, BOARD_COL))
 
 # Declaring the colours (Don't hesitate to change colours, you can change the R,G,B values from the tuple. Here I have tried to mimic the google tic-tac-toe colours)
-BG_CLR = (230, 148, 255)
-LINE_CLR = (170, 57, 204)
-CIRCLE_CLR = (106, 36, 128)
-CROSS_CLR = (192, 123, 213)
+BG_CLR = (21, 189, 172)
+LINE_CLR = (13, 161, 145)
+CIRCLE_CLR = (239, 236, 212)
+CROSS_CLR = (84, 84, 84)
 
 # Filling the screen with background colour
 screen.fill(BG_CLR)
