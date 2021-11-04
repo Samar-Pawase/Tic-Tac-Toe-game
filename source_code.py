@@ -1,10 +1,6 @@
+# Run the following command in the terminal before running the code to automatically install the required dependencies
+# command: pip install -r requirments.txt
 
-# To install the below modules:
-# Open your terminal and type - 
-# pip install pygame
-# pip install sys
-# pip install numpy as np
-# Once done run the the code 
 
 # Importing Modules
 import pygame
